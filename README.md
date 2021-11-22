@@ -1,4 +1,4 @@
-# raycasting-simple
+# raycaster
 Implementación de un Raycaster, basada en https://lodev.org/cgtutor/raycasting.html
 
 Dependencias:
